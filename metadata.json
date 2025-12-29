@@ -1,0 +1,7 @@
+{
+  "name": "Rakesh Grocery & General Store",
+  "description": "A comprehensive grocery store website with WhatsApp ordering, product management, and a user-friendly shopping experience.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
